@@ -20,7 +20,9 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/#
 
 ####Desktop apps
 
-- [Mou](http://mouapp.com/) for Mac (it's free and it's best)
+- [Typora](https://typora.io/) for Mac and Windows (is free, best, and cross-platform)
+- [MacDown](https://macdown.uranusjr.com/) for Mac (picked up the torch from Mou and raaan with it)
+- ~~[Mou](http://mouapp.com/) for Mac (it's discontinued)~~
 - [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
 - [nvAlt](http://brettterpstra.com/projects/nvalt/) for Mac (also free, with amazing search features)
 - (Mac) [Byword](http://bywordapp.com/) - $9.99
